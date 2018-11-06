@@ -1,0 +1,25 @@
+/***** TABLE ******/
+table, td, th{
+	border: 1px solid #ddd;
+	text-align: center;
+}
+
+table{
+	border-collapse: collapse;
+	width: 90%;
+	margin-top: 150px;
+}
+
+th, td {
+	padding: 15px;
+}
+.display-size{
+	padding: 12px 20px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	box-sizing: border-box;
+	position: relative;
+	float: right;
+	top: -50px;
+	left: -135px;
+}
